@@ -55,5 +55,7 @@ I'm a self-taught programmer interested in data science, web dev, and homelab. I
 <hr />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joobert&color=00c647&style=for-the-badge" />
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=joobert&color=00c647&style=for-the-badge" />
+  </a>
 </div>
