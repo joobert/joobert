@@ -1,14 +1,14 @@
 <h1>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/Yz3OPg3.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/cXNgpAu.gif" />
-    <img alt="github.com/joobert" src="https://i.imgur.com/Yz3OPg3.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/Yz3OPg3.gif" width="352px" height="36px"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/cXNgpAu.gif" width="352px" height="36px" />
+    <img alt="github.com/joobert" src="https://i.imgur.com/Yz3OPg3.gif" width="352px" height="36px" />
   </picture>
 </h1>
 
 <h3>
 Welcome 
-<img src="https://raw.githubusercontent.com/joobert/joobert/main/wave.gif" width="28px" height="28px" />
+<img src="https://raw.githubusercontent.com/joobert/joobert/main/wave.gif" width="24px" height="24px" />
 </h3>
 
 <p>
