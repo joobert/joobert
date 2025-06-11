@@ -19,7 +19,11 @@ I'm a self-taught programmer interested in data science, web dev, and homelab. I
   <a href="https://www.python.org/">
     <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/">
-    <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://pandas.pydata.org/static/img/pandas_mark_white.svg" width="36" height="36" />
+      <source media="(prefers-color-scheme: light)" srcset="https://pandas.pydata.org/static/img/pandas_mark.svg" width="36" height="36" />
+      <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" />
+    </picture></a>&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/">
     <img alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://www.javascript.com/">
