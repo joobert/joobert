@@ -15,36 +15,49 @@ I'm a self-taught programmer interested in data science, web dev, and homelab. I
 
 <h2>🚀 Languages and Tools I Use</h2>
 
-<p>
-  <a href="https://www.javascript.com/">
-    <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/">
-    <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /></a>
+<p align="left">
   <a href="https://www.python.org/">
-    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
-  <a href="https://react.dev/">
-    <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/">
-    <img alt="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /></a>
-  <a href="https://sqlite.org/">
-    <img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org/">
-    <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://www.docker.com/">
-    <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" /></a>
+    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/">
+    <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/">
-    <img alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" /></a>
+    <img alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://www.javascript.com/">
+    <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://react.dev/">
+    <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/">
+    <img alt="Bash" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://sqlite.org/">
+    <img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/">
+    <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://supabase.com/">
+    <img alt="Supabase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://www.figma.com/">
-    <img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" /></a>
+    <img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" height="36" /></a>
 </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=joobert&theme=onestar&title=Commits,Issues,Experience&margin-w=8" />
-</a>
+<hr />
+
+<details>
+<summary>⚡ GitHub Stats</summary>
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GitHub README Stats" src="https://github-readme-stats-eight-delta-34.vercel.app/api/?username=joobert&theme=dark&show_icons=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=joobert&theme=onestar&title=Commits,Issues,Experience&margin-w=6" />
+  </a>
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joobert/joobert/output/snake-dark.svg" />
