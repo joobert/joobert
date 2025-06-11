@@ -1,5 +1,9 @@
 <h1>
-  <img alt="github.com/joobert" src="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert.gif" width="352px" height="36px" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert_dark.gif" width="352px" height="36px" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert_light.gif" width="352px" height="36px" />
+    <img alt="github.com/joobert" src="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert_dark.gif" width="352px" height="36px" />
+  </picture>
 </h1>
 
 <h3>
@@ -8,7 +12,7 @@ Welcome
 </h3>
 
 <p>
-I'm a self-taught programmer interested in data science, web dev, and homelab. If I do it twice, it's getting scripted.
+I learned to code so I could automate workflows, analyze data, and build cool stuff. Now, if I do anything twice, it's getting scripted.
 </p>
 
 </br>
@@ -25,7 +29,7 @@ I'm a self-taught programmer interested in data science, web dev, and homelab. I
       <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" />
     </picture></a>&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/">
-    <img alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+    <img alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="32" height="32" /></a>&nbsp;&nbsp;
   <a href="https://www.javascript.com/">
     <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/">
@@ -56,8 +60,11 @@ I'm a self-taught programmer interested in data science, web dev, and homelab. I
 <summary>⚡ GitHub Stats</summary>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub README Stats" src="https://github-readme-stats-eight-delta-34.vercel.app/api/?username=joobert&theme=dark&show_icons=true&bg_color=00000000" />
-  </a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-delta-34.vercel.app/api/?username=joobert&theme=dark&show_icons=true&bg_color=00000000" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-delta-34.vercel.app/api/?username=joobert&theme=dark&show_icons=true&bg_color=0D1117" />
+      <img alt="GitHub README Stats" src="https://github-readme-stats-eight-delta-34.vercel.app/api/?username=joobert&theme=dark&show_icons=true&bg_color=00000000" />
+    </picture>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=joobert&theme=onestar&title=Commits,Issues,Experience&margin-w=6" />
   </a>
