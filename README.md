@@ -1,9 +1,5 @@
 <h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert_dark.gif" width="352px" height="36px" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert_light.gif" width="352px" height="36px" />
-    <img alt="github.com/joobert" src="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert_dark.gif" width="352px" height="36px" />
-  </picture>
+  <img alt="github.com/joobert" src="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert.svg" />
 </h1>
 
 <h3>
