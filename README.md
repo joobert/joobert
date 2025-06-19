@@ -1,10 +1,14 @@
 <h1>
-  <img alt="github.com/joobert" src="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert.svg" />
+  <picture>
+    <img alt="github.com/joobert" src="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert.svg" />
+  </picture>
 </h1>
 
 <h3>
 Welcome 
-  <img src="https://raw.githubusercontent.com/joobert/joobert/main/img/wave.gif" width="24px" height="24px" />
+  <picture>
+    <img src="https://raw.githubusercontent.com/joobert/joobert/main/img/wave.gif" width="24px" height="24px" />
+  </picture>
 </h3>
 
 <p>
