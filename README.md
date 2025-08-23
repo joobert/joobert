@@ -1,6 +1,6 @@
 <h1>
   <picture>
-    <img alt="github.com/joobert" src="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert.svg" />
+    <img alt="github.com/joobert" src="https://raw.githubusercontent.com/joobert/joobert/main/img/github_joobert.svg" height="40px" />
   </picture>
 </h1>
 
