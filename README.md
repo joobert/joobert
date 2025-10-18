@@ -12,7 +12,7 @@ Welcome
 </h3>
 
 <p>
-I learned to code so I could automate workflows, analyze data, and build cool stuff. Now, if I do anything twice, it's getting scripted.
+If I do anything twice, it's getting scripted.
 </p>
 
 </br>
