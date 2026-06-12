@@ -29,6 +29,8 @@ If I do anything twice, it's getting scripted.
       <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" /></picture></a>&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/">
     <img alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+  <a href="https://rust-lang.org/">
+    <img alt="Rust" src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/69d8049604f4252f6954000c77c8d95976acba83/icons/rust.svg" width="32" height="32" /></a>&nbsp;&nbsp;
   <a href="https://www.javascript.com/">
     <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/">
@@ -49,6 +51,8 @@ If I do anything twice, it's getting scripted.
     <img alt="Supabase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/">
     <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://www.blender.org/about/">
+    <img alt="Blender" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="32" height="32" /></a>&nbsp;&nbsp;
   <a href="https://www.figma.com/">
     <img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" height="36" /></a>
 </p>
